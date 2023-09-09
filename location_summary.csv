@@ -1,0 +1,56 @@
+Day,Hour,1stTowerAddress,1stTowerCity,count
+27,1,3067 Turk Blvd,San Francisco,2
+27,2,3067 Turk Blvd,San Francisco,1
+27,11,3067 Turk Blvd,San Francisco,1
+27,12,1358 S Van Ness Ave,San Francisco,3
+27,12,665 Capp St,San Francisco,1
+27,14,1358 S Van Ness Ave,San Francisco,2
+27,15,1358 S Van Ness Ave,San Francisco,2
+27,17,1358 S Van Ness Ave,San Francisco,1
+27,18,900 Corbett Ave,San Francisco,3
+27,19,900 Corbett Ave,San Francisco,2
+27,21,900 Corbett Ave,San Francisco,1
+27,22,900 Corbett Ave,San Francisco,1
+28,0,1418 Shrader St,San Francisco,1
+28,1,1418 Shrader St,San Francisco,1
+28,1,2198 Fell St,San Francisco,1
+28,1,3067 Turk Blvd,San Francisco,2
+28,4,3067 Turk Blvd,San Francisco,5
+28,5,3067 Turk Blvd,San Francisco,3
+28,6,1 Whiting Way,San Francisco,5
+28,6,248 9th St,San Francisco,7
+28,6,3067 Turk Blvd,San Francisco,15
+28,6,35 Chabot Terrace,San Francisco,1
+28,6,500 8th St,San Francisco,4
+28,6,534 2nd St,San Francisco,3
+28,6,637 Laguna St,San Francisco,2
+28,6,708 Bryant St,San Francisco,3
+28,6,929 Broderick St,San Francisco,3
+28,7,1464 34th St,Oakland,1
+28,7,201 Burma Rd,Oakland,3
+28,7,22 Moss Ave,Oakland,9
+28,7,458 36th St,Oakland,2
+28,8,22 Moss Ave,Oakland,9
+28,10,22 Moss Ave,Oakland,9
+28,11,22 Moss Ave,Oakland,7
+28,12,4930 Telegraph Ave,Oakland,20
+28,13,4930 Telegraph Ave,Oakland,16
+28,14,3838 Hollis St,Emeryville,21
+28,14,4930 Telegraph Ave,Oakland,5
+28,15,3838 Hollis St,Emeryville,2
+28,16,1 Whiting Way,San Francisco,1
+28,16,210 Burma Rd,Oakland,2
+28,17,1358 S Van Ness Ave,San Francisco,9
+28,18,1358 S Van Ness Ave,San Francisco,1
+28,19,1358 S Van Ness Ave,San Francisco,7
+28,20,1358 S Van Ness Ave,San Francisco,1
+28,22,3067 Turk Blvd,San Francisco,6
+28,23,3067 Turk Blvd,San Francisco,2
+29,0,3067 Turk Blvd,San Francisco,2
+29,2,3067 Turk Blvd,San Francisco,1
+29,14,900 Corbett Ave,San Francisco,2
+29,15,4063 24th St,San Francisco,3
+29,16,4063 24th St,San Francisco,3
+29,19,1358 S Van Ness Ave,San Francisco,3
+29,20,1358 S Van Ness Ave,San Francisco,2
+29,22,1358 S Van Ness Ave,San Francisco,2
